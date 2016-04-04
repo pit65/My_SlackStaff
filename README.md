@@ -1,3 +1,3 @@
 # My_SlackStaff
 
-Collection usefull scripts
+Collection of usefull scripts
